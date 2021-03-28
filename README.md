@@ -1,1 +1,1 @@
-# PL for making LL1 compiler
+# Programming Language Project for making LL1 compiler
